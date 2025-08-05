@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-# About me
+### About me
 
 I’m currently writing C++ algorithms for **Desbordante**, an open-source data profiler designed to help researchers discover patterns in their data.  
 
