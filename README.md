@@ -2,7 +2,7 @@
 
 ### 🎓 About me
 - Writing C++ algorithms for **Desbordante**, an open-source data profiler designed to help researchers discover hidden patterns in data.  
-- Passionate about game dev – currently writing a Godot game about relearning speech after a body-transfer accident.  
+- Passionate about game dev – currently working on a Godot game about relearning speech after a body-transfer accident.  
 - Experienced with Unity & C#.
 
 ---
